@@ -5,7 +5,7 @@
 
 [![huggingface-hub](https://img.shields.io/badge/huggingface--hub-blue.svg?logo=huggingface)](https://huggingface.co/docs/hub)
 [![torch](https://img.shields.io/badge/torch-blue.svg?logo=pytorch)](https://pytorch.org/)
-[![TTS](https://img.shields.io/badge/TTS-blue.svg?logo=python)](https://github.com/coqui-ai/TTS)
+[<img src="https://raw.githubusercontent.com/coqui-ai/TTS/main/images/coqui-log-green-TTS.png" alt="TTS" height="20">](https://github.com/coqui-ai/TTS)
 [![gradio](https://img.shields.io/badge/gradio-blue.svg?logo=gradio)](https://gradio.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -21,13 +21,13 @@ Transform text into natural, high-quality Vietnamese speech with Viet Glow-TTS, 
 
 ## Notebook
 Explore the training and inference process with our comprehensive notebook:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)  
-[![Open in SageMaker](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)  
-[![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://deepnote.com/launch?url=https://github.com/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)  
-[![JupyterLab](https://img.shields.io/badge/Launch-JupyterLab-orange?logo=Jupyter)](https://mybinder.org/v2/gh/danhtran2mind/Viet-Glow-TTS-finetuning/main?filepath=notebooks/glow-tts.ipynb)  
-[![Open in Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)  
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danhtran2mind/Viet-Glow-TTS-finetuning/main)  
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github)](https://github.com/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)
+[![Open in SageMaker](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb) 
+[![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://deepnote.com/launch?url=https://github.com/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)
+[![JupyterLab](https://img.shields.io/badge/Launch-JupyterLab-orange?logo=Jupyter)](https://mybinder.org/v2/gh/danhtran2mind/Viet-Glow-TTS-finetuning/main?filepath=notebooks/glow-tts.ipynb)
+[![Open in Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danhtran2mind/Viet-Glow-TTS-finetuning/main)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github)](https://github.com/danhtran2mind/Viet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/notebooks/welcome?src=https%3A%2F%2Fgithub.com%2Fdanhtran2mind%2FViet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)
 
 ## Dataset
