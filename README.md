@@ -31,16 +31,14 @@ Explore the training and inference process with our comprehensive notebook:
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/notebooks/welcome?src=https%3A%2F%2Fgithub.com%2Fdanhtran2mind%2FViet-Glow-TTS-finetuning/blob/main/notebooks/glow-tts.ipynb)
 
 ## Dataset
-The model is trained on a curated Vietnamese TTS dataset, ensuring high-quality and authentic audio output. Explore more details at:  
-[![HuggingFace Dataset](https://img.shields.io/badge/HuggingFace-ntt123%2Fviet--tts--dataset-yellow?style=flat&logo=huggingface)](https://huggingface.co/datasets/ntt123/viet-tts-dataset)
+The model is trained on a curated Vietnamese TTS dataset, ensuring high-quality and authentic audio output. Explore more details at: [![HuggingFace Dataset](https://img.shields.io/badge/HuggingFace-ntt123%2Fviet--tts--dataset-yellow?style=flat&logo=huggingface)](https://huggingface.co/datasets/ntt123/viet-tts-dataset)
 
 ## From Scratch Model
 This project builds upon the Glow-TTS framework, fine-tuned specifically for the Vietnamese language to achieve natural intonation and pronunciation. The model is trained from scratch using the curated dataset, with optimized hyperparameters for enhanced audio quality and performance. 🚀
 
 ## Demonstration
 Experience real-time Vietnamese TTS generation:  
-- **HuggingFace Space**:  
-  [![HuggingFace Space Demo](https://img.shields.io/badge/HuggingFace-danhtran2mind%2FViet--Glow--TTS--finetuning-yellow?style=flat&logo=huggingface)](https://huggingface.co/spaces/danhtran2mind/Viet-Glow-TTS-finetuning)  
+- **HuggingFace Space**: [![HuggingFace Space Demo](https://img.shields.io/badge/HuggingFace-danhtran2mind%2FViet--Glow--TTS--finetuning-yellow?style=flat&logo=huggingface)](https://huggingface.co/spaces/danhtran2mind/Viet-Glow-TTS-finetuning)  
 
 - **Demo GUI**:  
   <img src="./assets/gradio_app_demo.jpg" alt="Gradio Demo" height="600">
