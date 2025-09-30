@@ -104,20 +104,11 @@ Audio("tests/test_output/tts_output.wav")
 ```
 
 ## Inference Samples
-<table>
-  <thead>
-    <tr>
-      <th>Input Text</th>
-      <th>Output Audio</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">Trong khi đó, tại bến tàu du lịch Nha Trang, hàng ngàn du khách chen nhau để đi đến các đảo trên vịnh Nha Trang, lực lượng cảnh sát đường thủy đã tăng cường quân số để quản lý, đảm bảo an toàn cho du khách.</td>
-      <td style="text-align: center;"><audio src="assets/Viet-Glow-TTS-finetuning/tts_output.wav" controls></audio></td>
-    </tr>
-  </tbody>
-</table>
+- Input Text:
+Trong khi đó, tại bến tàu du lịch Nha Trang, hàng ngàn du khách chen nhau để đi đến các đảo trên vịnh Nha Trang, lực lượng cảnh sát đường thủy đã tăng cường quân số để quản lý, đảm bảo an toàn cho du khách.
+- Output Audio:
+  
+https://github.com/user-attachments/assets/d4155176-c723-4578-bf08-1e38662e649f
 
 ## Environment
 - **Python**: 3.8 or higher
@@ -125,4 +116,5 @@ Audio("tests/test_output/tts_output.wav")
 
 ## Contact
 For questions or issues, please use the [GitHub Issues tab](https://github.com/danhtran2mind/Viet-Glow-TTS-finetuning/issues) or the [Hugging Face Community tab](https://huggingface.co/spaces/danhtran2mind/Viet-Glow-TTS-finetuning/discussions). 📬
+
 
