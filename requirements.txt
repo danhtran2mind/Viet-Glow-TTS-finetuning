@@ -1,1 +1,9 @@
-coqui-tts>=0.26.0   
+coqui-tts>=0.26.0
+trainer
+datasets>=3.5.0
+numpy==1.26.4
+pandas
+scikit-learn
+soundfile
+torch
+gradio
