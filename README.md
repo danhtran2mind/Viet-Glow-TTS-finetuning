@@ -45,7 +45,7 @@ Experience real-time Vietnamese TTS generation:
 
 To run the Gradio app locally (`localhost:7860`):  
 ```bash
-python apps/gradio_app.py
+python app.py
 ```
 
 ## Installation
@@ -116,6 +116,7 @@ https://github.com/user-attachments/assets/d4155176-c723-4578-bf08-1e38662e649f
 
 ## Contact
 For questions or issues, please use the [GitHub Issues tab](https://github.com/danhtran2mind/Viet-Glow-TTS-finetuning/issues) or the [Hugging Face Community tab](https://huggingface.co/spaces/danhtran2mind/Viet-Glow-TTS-finetuning/discussions). 📬
+
 
 
 
