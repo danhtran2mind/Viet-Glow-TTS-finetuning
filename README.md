@@ -82,7 +82,8 @@ check_point_folder = "./ckpts"
 model_path = f"{check_point_folder}/best_model.pth"
 config_path = f"{check_point_folder}/config.json"
 out_path = "tests/test_output/tts_output.wav"
-text = ("Mưa kéo dài không ngớt, khiến đường phố Hà Nội xuất hiện 85 điểm úng ngập. Vào giờ tan tầm, nhiều người dân phải cố vượt qua 'biển nước' để trở về nhà.")
+text = ("Mưa kéo dài không ngớt, khiến đường phố Hà Nội xuất hiện 85 điểm úng ngập. Vào giờ tan tầm, "
+        "nhiều người dân phải cố vượt qua 'biển nước' để trở về nhà.")
 
 # Set device (GPU if available, else CPU)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -116,6 +117,7 @@ https://github.com/user-attachments/assets/d4155176-c723-4578-bf08-1e38662e649f
 
 ## Contact
 For questions or issues, please use the [GitHub Issues tab](https://github.com/danhtran2mind/Viet-Glow-TTS-finetuning/issues) or the [Hugging Face Community tab](https://huggingface.co/spaces/danhtran2mind/Viet-Glow-TTS-finetuning/discussions). 📬
+
 
 
 
