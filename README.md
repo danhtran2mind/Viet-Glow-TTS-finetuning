@@ -1,4 +1,4 @@
-# Viet Glow-TTS Finetuning 📢
+# Viet Glow-TTS finetuning 📢
 
 [![GitHub Stars](https://img.shields.io/github/stars/danhtran2mind/Viet-Glow-TTS-finetuning?style=social&label=Repo%20Stars)](https://github.com/danhtran2mind/Viet-Glow-TTS-finetuning/stargazers)
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanhtran2mind%2FViet-Glow-TTS-finetuning&label=Repo+Views&icon=github&color=%236f42c1&message=&style=social&tz=UTC)
@@ -117,6 +117,7 @@ https://github.com/user-attachments/assets/d4155176-c723-4578-bf08-1e38662e649f
 
 ## Contact
 For questions or issues, please use the [GitHub Issues tab](https://github.com/danhtran2mind/Viet-Glow-TTS-finetuning/issues) or the [Hugging Face Community tab](https://huggingface.co/spaces/danhtran2mind/Viet-Glow-TTS-finetuning/discussions). 📬
+
 
 
 
